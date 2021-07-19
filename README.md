@@ -1,9 +1,25 @@
+##  Fala meu bacana
+Meu nome é Francis, estudante de Engenharia Eletrônica e grande adepto da programação.
+
+[![Projetos Badge](https://img.shields.io/badge/-Projetos-important?style=flat&logo=github)](https://onihexx0ff.github.io/)
+[![hackaday Badge](https://img.shields.io/badge/-Hackaday-green?style=flat&logo=hackaday)](https://hackaday.io/OniHexx0ff)
+[![Linkedin Badge](https://img.shields.io/badge/-Francis-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francis-kaster-9a6808210/) 
+[![Mail Badge](https://img.shields.io/badge/-fk-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:franciskaster@yahoo.com)
+
 ### Sobre mim:
 
-ainda configurando aqui...
+- Técnico em Eletrônica pelo IFSUL Pelotas
+- Estudante de Engenharia Eletrônica pela UFPEL
+- Um completo cientista maluco na área da automação
+- Gosto de Xadrez, inclusive sou árbitro pela CBX
+- Meus pronomes são Ele/Dele
+- Grande fã de Steins;Gate 
+- Odeio arquivos .md, listas e ironia 
 
 
 <br />
+
+
 
 ### Linguagens, frameworks e ferramentas:
 
@@ -31,4 +47,3 @@ ainda configurando aqui...
 
 <br />
 <br />
-
