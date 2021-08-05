@@ -27,6 +27,7 @@ Meu nome é Francis, estudante de Engenharia Eletrônica e grande adepto da prog
 
 <img align="left" alt="Python logo" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/python/python.png"/>
 <img align="left" alt="Django logo" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/django/django.png"/>
+<img align="left" alt="VueJs logo" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/vue/vue.png"/>
 
 <img align="left" alt="Arduino logo" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/arduino/arduino.png"/>
 
