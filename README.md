@@ -13,6 +13,7 @@ Meu nome é Francis, estudante de Engenharia Eletrônica e grande adepto da prog
 - Um completo cientista maluco na área da automação
 - Gosto de Xadrez, inclusive sou árbitro pela CBX
 - Meus pronomes são Ele/Dele
+- Viciado em manjericão
 - Grande fã de Steins;Gate 
 - Odeio arquivos .md, listas e ironia 
 
