@@ -20,8 +20,8 @@ Meu nome é Francis, estudante de Engenharia Eletrônica e grande adepto da prog
 
 <br />
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onihexx0ff&layout=compact" />
+<a href="https://github.com/OniHexx0ff">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onihexx0ff&layout=compact&theme=dracula" />
 </a>
 
 ### Linguagens, frameworks e ferramentas:
