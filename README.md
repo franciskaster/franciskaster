@@ -9,13 +9,13 @@ Meu nome é Francis, estudante de Engenharia Eletrônica e grande adepto da prog
 ### Sobre mim:
 
 - Técnico em Eletrônica pelo IFSUL Pelotas
-- Estudante de Engenharia Eletrônica pela UFPEL
+- Estudante de Engenharia Eletrônica na UFPEL
 - Um completo cientista maluco na área da automação
 - Gosto de Xadrez, inclusive sou árbitro pela CBX
 - Meus pronomes são Ele/Dele
-- Viciado em manjericão
+- Viciado em manjericão e molho pesto
 - Grande fã de Steins;Gate 
-- Odeio arquivos .md, listas e ironia 
+- Odeio arquivos .md, listas, programação e ironia 
 
 
 <br />
