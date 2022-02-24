@@ -19,8 +19,9 @@ Meu nome é Francis, estudante de Engenharia Eletrônica e grande adepto da prog
 
 
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OniHexx0ff&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
 
 ### Linguagens, frameworks e ferramentas:
 
