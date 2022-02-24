@@ -4,7 +4,7 @@ Meu nome é Francis, estudante de Engenharia Eletrônica e grande adepto da prog
 [![Projetos Badge](https://img.shields.io/badge/-Projetos-important?style=flat&logo=github)](https://onihexx0ff.github.io/)
 [![hackaday Badge](https://img.shields.io/badge/-Hackaday-green?style=flat&logo=hackaday)](https://hackaday.io/OniHexx0ff)
 [![Linkedin Badge](https://img.shields.io/badge/-Francis-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francis-kaster-9a6808210/) 
-[![Mail Badge](https://img.shields.io/badge/-fk-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:franciskaster@yahoo.com)
+[![Mail Badge](https://img.shields.io/badge/-Email-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:franciskaster@yahoo.com)
 
 ### Sobre mim:
 
