@@ -1,6 +1,5 @@
 
 [![Projetos Badge](https://img.shields.io/badge/-Projetos-important?style=flat&logo=github)](https://onihexx0ff.github.io/)
-[![hackaday Badge](https://img.shields.io/badge/-Hackaday-green?style=flat&logo=hackaday)](https://hackaday.io/OniHexx0ff)
 [![Linkedin Badge](https://img.shields.io/badge/-Francis-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francis-kaster-9a6808210/) 
 
 
