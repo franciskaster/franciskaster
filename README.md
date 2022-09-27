@@ -6,19 +6,6 @@ Meu nome é Francis, estudante de Engenharia Eletrônica e grande adepto da prog
 [![Linkedin Badge](https://img.shields.io/badge/-Francis-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francis-kaster-9a6808210/) 
 [![Mail Badge](https://img.shields.io/badge/-Email-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:franciskaster@yahoo.com)
 
-### Sobre mim:
-
-- Técnico em Eletrônica pelo IFSUL Pelotas
-- Estudante de Engenharia Eletrônica na UFPEL
-- Um completo cientista maluco na área da automação
-- Gosto de Xadrez, inclusive sou árbitro pela CBX
-- Meus pronomes são Ele/Dele
-- Viciado em manjericão e molho pesto
-- Grande fã de Steins;Gate 
-- Odeio arquivos .md, listas, programação e ironia 
-
-
-<br />
 
 <a href="https://github.com/OniHexx0ff">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onihexx0ff&layout=compact&theme=dracula" />
