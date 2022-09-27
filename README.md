@@ -1,5 +1,3 @@
-##  -- -- -- --
-Meu nome é Francis, estudante de Engenharia Eletrônica e grande adepto da programação.
 
 [![Projetos Badge](https://img.shields.io/badge/-Projetos-important?style=flat&logo=github)](https://onihexx0ff.github.io/)
 [![hackaday Badge](https://img.shields.io/badge/-Hackaday-green?style=flat&logo=hackaday)](https://hackaday.io/OniHexx0ff)
