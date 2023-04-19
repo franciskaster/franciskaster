@@ -4,9 +4,7 @@
 
 
 
-<a href="https://github.com/OniHexx0ff">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onihexx0ff&layout=compact&theme=dracula" />
-</a>
+
 
 ### Linguagens, frameworks e ferramentas:
 
