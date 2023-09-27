@@ -6,9 +6,6 @@
 
 
 
-### Linguagens, frameworks e ferramentas:
-
-
 
 <img align="left" alt="Python logo" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/python/python.png"/>
 <img align="left" alt="Django logo" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/django/django.png"/>
